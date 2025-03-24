@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "basketball project.sln"
+    "dotnet.defaultSolution": "VR--project.sln"
 }

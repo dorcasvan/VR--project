@@ -6,9 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes: []
   m_configObjects:
+<<<<<<< HEAD
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e79e30a3b03ad9349a0c4f64b73d806f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3eb05e031c770fa4ab98f0bac7591436, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7eda4e770b0c08443b2891376a609795, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b53b89ca9241447b0a56ff61fa931615, type: 2}
+=======
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9597c258429264b42a5d2cfc3f810723, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 45e69f8c8ea3d2f40ab5ac8e1481cdb0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9b95b7cf4d9d93549a48c227fdda84cc, type: 2}
+>>>>>>> 3ce49d8abb2c78418348d27ce394f42e3d2d0159
   m_UseUCBPForAssetBundles: 0

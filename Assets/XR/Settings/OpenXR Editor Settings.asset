@@ -12,8 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 975057b4fdcfb8142b3080d19a5cc712, type: 3}
   m_Name: OpenXR Editor Settings
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   Keys: 0100000007000000
   Values:
   - featureSets: []
   - featureSets: []
+=======
+  Keys: 
+  Values: []
+>>>>>>> 3ce49d8abb2c78418348d27ce394f42e3d2d0159
   m_vulkanAdditionalGraphicsQueue: 0
